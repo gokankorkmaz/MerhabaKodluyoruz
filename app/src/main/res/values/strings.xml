@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MerhabaKodluyoruz</string>
+    <string name="merhaba">merhabaDunya</string>
+    <string name="deneme">textdeGozukecek</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
